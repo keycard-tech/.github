@@ -1,10 +1,10 @@
 # 👋 Welcome to Keycard
 
-We’re building open, secure, and privacy-respecting tools for self-custody and digital sovereignty.
+We’re an open source community building open, secure, and privacy-respecting tools for self-custody and digital sovereignty.
 
 ---
 
-## 🔧 What We Do
+## 🔧 Products 
 
 - 🔑 **[Status Keycard](https://github.com/keycard-tech/status-keycard)** — A JavaCard applet implementing a BIP-32 HD wallet.
 - 🛠️ **[Keycard Shell](https://github.com/keycard-tech/keycard-shell)** — A modular hardware wallet which uses Keycard as a secure element.
@@ -13,12 +13,18 @@ Explore all our repositories in the [Keycard Tech GitHub repositories](https://g
 
 ---
 
+## 💡 Vision 
+
+- Read our manifesto [here](https://press.logos.co/article/keycard-manifesto)
+
+---
+
 ## 🤝 How to Contribute
 
 **Keycard is a public good — contributions are highly encouraged!**  
 You can help by contributing code, testing, improving documentation, or suggesting new ideas.
 
-- Check out our [documentation site](https://keycard.tech/docs/)
+- Check out the [documentation site](https://keycard.tech/docs/)
 - Explore the existing [ecosystem of projects](https://github.com/keycard-tech/keycard-ecosystem-projects/) 
 - Check [good first issues](https://github.com/orgs/keycard-tech/projects/1/views/2?filterQuery=good+first+issue)
 - Share feedback or ideas!
