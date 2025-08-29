@@ -33,7 +33,7 @@ You can help by contributing code, testing, improving documentation, or suggesti
 
 ## 📬 Stay in Touch
 
-- 🌐 Website: [keycard.tech](https://getkeycard.com)
+- 🌐 Website: [keycard.tech](https://keycard.tech)
 - 💬 Community: [Keycard discord](https://discord.gg/uJAXk7jFhZ)
 - 🐦 Twitter: [@keycard_](https://twitter.com/keycard_)
 
