@@ -1,6 +1,6 @@
 # 👋 Welcome to Keycard
 
-We’re an open source community building open, secure, and privacy-respecting tools for self-custody and digital sovereignty.
+We’re an open source community building open, secure, and privacy-preserving tools for self-custody and digital sovereignty.
 
 ---
 
