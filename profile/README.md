@@ -24,7 +24,7 @@ Explore all our repositories in the [Keycard Tech GitHub repositories](https://g
 **Keycard is a public good — contributions are highly encouraged!**  
 You can help by contributing code, testing, improving documentation, or suggesting new ideas.
 
-- Check out the [documentation site](https://keycard.tech/docs/)
+- Check out the [documentation site](https://docs.keycard.tech/)
 - Explore the existing [ecosystem of projects](https://github.com/keycard-tech/keycard-ecosystem-projects/) 
 - Check [good first issues](https://github.com/orgs/keycard-tech/projects/1/views/2?filterQuery=good+first+issue)
 - Share feedback or ideas!
